@@ -1,12 +1,22 @@
 
 .main {
-  touch-action: none;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   padding: 0rem;
   min-height: 100vh;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.main::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.main {
+-ms-overflow-style: none;  /* IE and Edge */
+scrollbar-width: none;  /* Firefox */
 }
 
 .navbar {
