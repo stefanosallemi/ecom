@@ -6,6 +6,7 @@
     "start_url": "/",
     "name": "Ecom",
     "short_name": "Ecom",
+    "orientation": "portrait",
     "icons": [
         {
             "src": "/icon-192x192.png",
