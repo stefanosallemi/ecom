@@ -77,12 +77,6 @@ export default function Home() {
           <Grid xs={12} sm={5}>
             <Card4 />
           </Grid>
-          <Grid xs={12} sm={5}>
-            <Card4 />
-          </Grid>
-          <Grid xs={12} sm={5}>
-            <Card4 />
-          </Grid>
         </Grid.Container>
 
       </main>
