@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import { Navbar, Switch, Spacer, Button, Link, Text, Card, Radio, Container } from "@nextui-org/react"
 import { Grid } from "@nextui-org/react"
-import { Card4 } from './components/Card4'
+import { Card4 } from '../components/Card4'
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
