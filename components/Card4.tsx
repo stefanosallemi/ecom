@@ -8,7 +8,7 @@ export const Card4 = () => (
           New
         </Text>
         <Text h3 color="black">
-          Acme camera
+          Stefano
         </Text>
       </Col>
     </Card.Header>
